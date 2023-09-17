@@ -1,0 +1,34 @@
+---
+id: 10632284
+name: Mimesis Elephant
+type: Trap Card
+frameType: trap
+desc: 'Special Summon this card as an Effect Monster (Beast/EARTH/Level 2/ATK 0/DEF
+  2000). (This card is also still a Trap.) If this card is in the Monster Zone (Quick
+  Effect): You can declare 1 Type and 1 Attribute, then target 1 face-up monster on
+  the field; it becomes that Type and Attribute, until the end of this turn. You can
+  only use this effect of "Mimesis Elephant" once per turn.'
+race: Normal
+archetype: Trap Monster
+card_sets:
+- set_name: OTS Tournament Pack 20
+  set_code: OP20-EN026
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+- set_name: Power of the Elements
+  set_code: POTE-EN085
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0.87'
+card_images:
+- id: 10632284
+  image_url: https://images.ygoprodeck.com/images/cards/10632284.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/10632284.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/10632284.jpg
+card_prices:
+- cardmarket_price: '0.03'
+  tcgplayer_price: '0.01'
+  ebay_price: '1.75'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.00'

@@ -1,0 +1,40 @@
+---
+id: 53776969
+name: Scareclaw Light-Heart
+type: Link Monster
+frameType: link
+desc: "1 \"Scareclaw\" monster or 1 \"Visas Starfrost\"\r\nFor this card's Link Summon,
+  you can only use monsters in your Main Monster Zone as material. If this card is
+  Link Summoned in the Extra Monster Zone: You can add 1 \"Primitive Planet Reichphobia\"
+  from your Deck to your hand. If you control \"Visas Starfrost\": You can Special
+  Summon this card from your GY. You can only use this effect of \"Scareclaw Light-Heart\"
+  once per Duel."
+atk: 500
+race: Beast-Warrior
+attribute: DARK
+archetype: Scareclaw
+linkval: 1
+linkmarkers:
+- Left
+card_sets:
+- set_name: '25th Anniversary Tin: Dueling Heroes Mega Pack'
+  set_code: MP23-EN136
+  set_rarity: Prismatic Secret Rare
+  set_rarity_code: "(PScR)"
+  set_price: '0'
+- set_name: Power of the Elements
+  set_code: POTE-EN050
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '2.79'
+card_images:
+- id: 53776969
+  image_url: https://images.ygoprodeck.com/images/cards/53776969.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/53776969.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/53776969.jpg
+card_prices:
+- cardmarket_price: '1.50'
+  tcgplayer_price: '0.70'
+  ebay_price: '4.95'
+  amazon_price: '1.68'
+  coolstuffinc_price: '2.99'
